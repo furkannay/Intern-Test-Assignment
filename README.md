@@ -1,18 +1,54 @@
-# "React Login Form with Authentication, Axios, and Accessibility"
+# Acme Corp Supply Chain Management Software
 
-✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).
+This project aims to complete the tasks that an intern should accomplish to develop the web interface of Acme Corp's innovative supply chain management software.
 
-**Description:**
+## Tasks
 
-This repository shares the code applied during the [YouTube Tutorial](https://youtu.be/X3qyxo_UTR4). 
+### 1. User Registration Page
 
-Build the backend REST API that I test this registration form with in my [7 hour Node JS for Beginners course](https://youtu.be/f2EqECiTBL8) on my channel.
+- The layout of the user registration page was created using modern UI/UX libraries (React).
+- Implemented a registration form with fields for name, email, password, and password confirmation.
+- Added form validation to ensure the correctness of entered data.
+- Implemented sending form data to the server for user registration.
+- Displayed a message about successful registration or error.
 
-Just starting with React? I have a [9 hour React course tutorial video](https://youtu.be/RVFAyFWO4go) on my channel.  
+### 2. User Login Page
 
-I suggest completing my [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) before attempting React if you are new to Javascript.
+- The layout of the user login page was created using modern UI/UX libraries (React).
+- Implemented a login form with fields for email and password.
+- Added a password recovery feature.
+- Implemented user authentication on the server.
+- Redirected the user to the main page after successful authorization.
 
-### Academic Honesty
+### 3. User Profile Page
 
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
-# Intern-Test-Assignment
+- The layout of the user profile page was created using modern UI/UX libraries (React).
+- Displayed user information (name, email, registration date).
+- Added the ability to edit user information.
+- Implemented saving changes on the server.
+
+## Requirements
+
+- Experience in developing web applications using modern JavaScript frameworks (React).
+- Knowledge of HTML, CSS, and JavaScript.
+- Understanding of basic UI/UX design principles.
+- Experience working with APIs.
+- Ability to write clean and readable code.
+
+## How to Run
+
+1. Copy the project files to your computer.
+2. Open the terminal and navigate to the project directory.
+3. Run `npm install` to install dependencies.
+4. Run `npm start` to start the application.
+5. Go to `http://localhost:3000` in your browser.
+
+## Testing
+
+- Unit tests, integration tests, and end-to-end tests have been used to ensure that the project works according to the specified requirements.
+
+## Contributing
+
+1. Fork this project.
+2. Add new features or fix bugs.
+3. Submit your changes with a pull request.
